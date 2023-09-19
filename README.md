@@ -1,4 +1,4 @@
-## Simple boilerplate with Next.js (App router) + TailwindCSS + Shadcn + Bun + Jest + Testing Library
+## Look and Say challenge with Next.js (App router) + TailwindCSS + Shadcn + Bun + Jest + Testing Library
 
 ### This is a fresh start for some personal challenges/
 
@@ -14,4 +14,4 @@ To reproduce
 #### If on windows, just use pnpm, yarn, npm...
 
 
-### Preview url [here](https://fresh-boilerplate.vercel.app/)
+### Preview url [here](https://look-and-say.vercel.app/)
